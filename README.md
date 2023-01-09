@@ -11,6 +11,7 @@ Des instructions sur comment installer et configurer le projet
 
 ## Utilisation
 
+blablabla
 Des instructions sur comment utiliser le projet, avec des exemples si nécessaire
 
 ## Configuration
