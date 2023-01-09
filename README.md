@@ -1,8 +1,10 @@
 # Name
 
-# Foobar
+RedTeam : Création de malware
 
-Foobar is a Python library for dealing with word pluralization.
+## Description
+
+Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
 
 ## Installation
 
@@ -12,7 +14,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 pip install foobar
 ```
 
-## Usage
+## Utilisation
 
 ```python
 import foobar
@@ -27,13 +29,15 @@ foobar.pluralize('goose')
 foobar.singularize('phenomena')
 ```
 
-## Contributing
+## Configuration
 
 Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
-## License
+## Crédits et contact
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Statut du projet
