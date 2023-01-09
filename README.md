@@ -1,6 +1,4 @@
-# Name
-
-RedTeam : Création de malware
+# RedTeam : Création de malware
 
 ## Description
 
